@@ -1,6 +1,6 @@
 ## Exercicio com Struts e hibernate
 
 - simples exercicio de persistencia com hibernate
-- struts 2 com mavem
+- Maven
 - banco de dados MySql
 
